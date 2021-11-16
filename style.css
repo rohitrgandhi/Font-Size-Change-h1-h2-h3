@@ -1,0 +1,9 @@
+input{
+    border-width: 2px;
+    border-color: solid black;
+    width:fit-content;
+}
+
+output{
+    font-size: 3em;
+}
